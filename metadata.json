@@ -1,0 +1,6 @@
+{
+  "name": "Campus Skills Hub - Beyond the Classroom",
+  "description": "Empowering engineering students like Priya to build industry skills, earn academic-recognized credits, and stay career-ready without schedule burnout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
